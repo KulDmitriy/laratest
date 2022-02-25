@@ -1,0 +1,15 @@
+{
+    "Log in": "Log in",
+    "Enter the dashboard": "Enter the dashboard",
+    "Empty link": "Empty link",
+    "There is nothing": "There is nothing",
+    "Register": "Register",
+    "Just do it!": "Just do it!",
+    "It is not even a link, just text": "It is not even a link, just text",
+    
+    "The :attribute must contain at least one letter.": "The :attribute must contain at least one letter.",
+    "The :attribute must contain at least one number.": "The :attribute must contain at least one number.",
+    "The :attribute must contain at least one symbol.": "The :attribute must contain at least one symbol.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "The :attribute must contain at least one uppercase and one lowercase letter.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute."
+}

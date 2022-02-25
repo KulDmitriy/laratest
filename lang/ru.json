@@ -1,0 +1,15 @@
+{
+    "Log in": "Авторизация",
+    "Enter the dashboard": "Вход в личный кабинет",
+    "Empty link": "Пустая сылка",
+    "There is nothing": "Здесь ничего нет",
+    "Register": "Зарегистрироваться",
+    "Just do it!": "Просто возьми и зарегистрируйся, ну чё ты",
+    "It is not even a link, just text": "А это даже не ссылка, просто текст",
+    
+    "The :attribute must contain at least one letter.": "The :attribute must contain at least one letter.",
+    "The :attribute must contain at least one number.": "The :attribute must contain at least one number.",
+    "The :attribute must contain at least one symbol.": "The :attribute must contain at least one symbol.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "The :attribute must contain at least one uppercase and one lowercase letter.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute."
+}
